@@ -1,0 +1,12 @@
+server:
+    port: 8895
+spring:
+    # neo4j配置
+    data:
+      neo4j:
+        uri: http://127.0.0.1:7474
+        username: neo4j
+        password: 123456
+
+
+
